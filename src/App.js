@@ -9,6 +9,7 @@ function App() {
         <h1>This is Github Tutorial</h1>
         <h1>Creating first commit</h1>
         <h1>Creating second commit</h1>
+        <h1>Creating third commit</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload. Hello App
         </p>
